@@ -5,3 +5,6 @@ node_modules/
 dist/
 build/
 coverage/
+
+frontend-backup/
+react-mongodb-library-backup/
